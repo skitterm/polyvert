@@ -1,0 +1,10 @@
+V:\217\Cartography\Cartography\Cartography\bin\Debug\Cartography.dll
+V:\217\Cartography\Cartography\Cartography\bin\Debug\Cartography.pdb
+V:\217\Cartography\Cartography\Cartography\obj\Debug\ResolveAssemblyReference.cache
+V:\217\Cartography\Cartography\Cartography\obj\Debug\Cartography.dll
+V:\217\Cartography\Cartography\Cartography\obj\Debug\Cartography.pdb
+V:\skitterm\217\Cartography\Cartography\Cartography\bin\Debug\Cartography.dll
+V:\skitterm\217\Cartography\Cartography\Cartography\bin\Debug\Cartography.pdb
+V:\skitterm\217\Cartography\Cartography\Cartography\obj\Debug\ResolveAssemblyReference.cache
+V:\skitterm\217\Cartography\Cartography\Cartography\obj\Debug\Cartography.dll
+V:\skitterm\217\Cartography\Cartography\Cartography\obj\Debug\Cartography.pdb
