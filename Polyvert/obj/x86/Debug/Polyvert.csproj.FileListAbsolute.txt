@@ -27,3 +27,5 @@ F:\GeogProg\Polyvert\Polyvert\obj\x86\Debug\Polyvert.csprojResolveAssemblyRefere
 F:\GeogProg\Polyvert\Polyvert\obj\x86\Debug\Polyvert.Form1.resources
 F:\GeogProg\Polyvert\Polyvert\obj\x86\Debug\Polyvert.Properties.Resources.resources
 F:\GeogProg\Polyvert\Polyvert\obj\x86\Debug\Polyvert.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\General\Github\GeogProg\Polyvert\Polyvert\obj\x86\Debug\Polyvert.exe
+C:\Users\Student\Desktop\General\Github\GeogProg\Polyvert\Polyvert\obj\x86\Debug\Polyvert.pdb

@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyvert", "Polyvert\Polyvert.csproj", "{3E236CDF-EA05-49AD-8C14-9B5E4E80314F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartography", "..\Cartography\Cartography\Cartography\Cartography.csproj", "{12673C8B-C40A-40B5-9C86-87EF39F5B9BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartography", "Cartography\Cartography\Cartography.csproj", "{12673C8B-C40A-40B5-9C86-87EF39F5B9BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
